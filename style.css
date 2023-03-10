@@ -1,0 +1,15 @@
+#container{ 
+    font-family: sans-serif;
+    color: white ;
+     background-color: black;
+     display: flex;
+     flex-direction: column; 
+     margin : 0 , auto ; 
+     height: 50em;
+     width: 100%;
+     text-align: center;
+     
+}
+p{ 
+    color :rgb(216, 54, 54)
+}
